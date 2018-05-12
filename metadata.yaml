@@ -1,0 +1,29 @@
+_repo: Virginia-under-the-Stuarts-1607-1688_30284
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wertenbaker, Thomas Jefferson
+    alias: Wertenbaker, Thomas J.
+    birthdate: 1879
+    deathdate: 1966
+    gutenberg_agent_id: '33073'
+    url: http://www.gutenberg.org/2009/agents/33073
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_J._Wertenbaker
+description: ''
+gutenberg_issued: '2009-10-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30284'
+  lccn: '59011229'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Virginia -- History -- Colonial period, ca. 1600-1775'
+- !lcc 'F206'
+title: Virginia under the Stuarts 1607-1688
+url: http://www.gutenberg.org/ebooks/30284
